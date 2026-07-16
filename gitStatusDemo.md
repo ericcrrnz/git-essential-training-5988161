@@ -1,2 +1,1 @@
-New line
-Create merge conflict
+fgdigjnedinrgrini
